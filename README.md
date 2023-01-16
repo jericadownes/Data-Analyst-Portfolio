@@ -8,3 +8,10 @@ jericarc@gmail.com
 * Tableau
 * Microsoft Excel
 * Google Sheets
+
+
+My Projects  | Description
+------------- | -------------
+Project 1  | Analyzing Covid deaths and vaccinations data between countries and continents. Tableau Viz included.
+Project 2  | Enter description here.
+Project 3  | Enter description here.
